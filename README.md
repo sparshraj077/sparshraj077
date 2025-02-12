@@ -19,9 +19,9 @@
 ---
 
 ### 👨‍💻 About Me:
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB**
+- 🌱 I’m currently learning **React.js, Node.js, MongoDB, Kubernetes, and Docker**
 - 👨‍💻 All of my projects are available on **[GitHub](https://github.com/sparshraj077)**
-- 💬 Ask me about **React, Vue, and GSAP**
+- 💬 Ask me about **React, Blockchain, and Frontend r**
 - 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/sparsh-rajvanshi-742044248/)**
 - ⚡ Fun fact: **I think I am funny 😄**
 
@@ -97,8 +97,9 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmN0Y2QwbGhsZ2VsazkyY2swenhxaXRweDk3cG00eHc0ZXR0ODU2bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="600"/>
 </p>
+
 
 ---
 
