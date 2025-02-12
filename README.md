@@ -46,7 +46,10 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
 </p>
 
----
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXc5bG92cXJ4dXZ5N3JqMWR2eHVyMnEyNGN5OHIxaHlqc3YyMjdubiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="600" />
+</p>
+
 
 ### 📊 GitHub Stats:
 <p align="center">
@@ -64,9 +67,7 @@
 ---
 
 ### 🔥 Coding in Action:
-<p align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="600" />
-</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
